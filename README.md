@@ -1,7 +1,7 @@
 # csis3380_group9
 
 ## To start the project
-1. Download the project, unzip and open in vscode
+1. Download the project, unzip and open in vscode and open new terminal
 
 2. First start the server
   2.1. cd ./server
