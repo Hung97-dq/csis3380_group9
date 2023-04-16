@@ -1,6 +1,6 @@
 # csis3380_group9
 
-#To start the project
+## To start the project
 1. Download the project, unzip and open in vscode
 
 2. First start the server
